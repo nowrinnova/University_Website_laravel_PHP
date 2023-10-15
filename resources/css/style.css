@@ -1,0 +1,21 @@
+/* .homepage_header_navbar li {
+    display: inline;
+    color: brown;
+}
+
+/* .homepage_header_navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+} */
+
+/* .homepage_header_navbar li a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+
+} */
+.homepage_header_navbar {
+    display: inline;
+}
